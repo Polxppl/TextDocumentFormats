@@ -1,0 +1,10 @@
+{
+  "brand": "Dell",
+  "model": "Inspiron 15",
+  "year": 2023,
+  "isTouchscreen": false,
+  "devices": ["touchpad","webcam"],
+  "storage": 512,
+  "wireless": ["Wi-Fi 6E (802.11ax)", "Bluetooth 5.3"],
+  "display": "Liquid Retina XDR display"
+}

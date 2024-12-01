@@ -1,0 +1,8 @@
+{
+  "class": "STD",
+  "price": 19.50,
+  "currency": "GBP",
+  "adult": 1,
+  "child": null,
+  "route": ["LAMESVILLE", "AWESOMETOWN"]
+}

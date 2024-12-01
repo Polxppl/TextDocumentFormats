@@ -1,0 +1,26 @@
+<meansOfTransport>
+  <transport>
+    <name>Train</name>
+    <speed min="50" max="300">High</speed>
+    <cost>Medium</cost>
+    <capacity>High</capacity>
+  </transport>
+  <transport>
+    <name>Car</name>
+    <speed min="50" max="150">Moderate</speed>
+    <cost>Medium</cost>
+    <capacity>Low</capacity>
+  </transport>
+  <transport>
+    <name>Airplane</name>
+    <speed min="600" max="900">Very High</speed>
+    <cost>High</cost>
+    <capacity>Low</capacity>
+  </transport>
+  <transport>
+    <name>Bicycle</name>
+    <speed min="15" max="30">Low</speed>
+    <cost>Low</cost>
+    <capacity>Very Low</capacity>
+  </transport>
+</meansOfTransport>
