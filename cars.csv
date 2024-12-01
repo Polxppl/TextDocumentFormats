@@ -1,6 +1,7 @@
 Make,Model,Year,Price (USD)
-Toyota,Corolla,2021,20,000
-Honda,Civic,2020,22,500
-Ford,Focus,2019,18,000
-Tesla,Model 3,2022,35,000
-Volkswagen,Golf,2021,25,000
+Toyota,Corolla,2021,20000
+Honda,Civic,2020,22500
+Ford,Focus,2019,18000
+Tesla,Model 3,2022,35000
+Volkswagen,Golf,2021,25000
+Fiat,126,1972,17013965
